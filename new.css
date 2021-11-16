@@ -12,6 +12,9 @@ body {
   font: normal 14px "Open Sans", sans-serif;
   margin:0;
 }
+.img {
+	text-align: center;
+}
 
 h1,h2,h3,p,li {
   text-align:left;	
