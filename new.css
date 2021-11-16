@@ -15,6 +15,10 @@ body {
 .img {
 	text-align: center;
 }
+.lien {
+	text-align: center;
+	color: blue;
+}
 
 h1,h2,h3,p,li {
   text-align:left;	
